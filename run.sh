@@ -1,0 +1,1 @@
+yolo detect train model=yolov8n.pt data=/opt/srv/orc-web/img-detection/ktp.yaml epochs=50 imgsz=640

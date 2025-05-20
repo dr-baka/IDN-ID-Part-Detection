@@ -1,0 +1,9 @@
+results/*
+.env
+runs
+__pycache__/
+example/*
+labels/*.cache
+.vscode
+*.pt
+
